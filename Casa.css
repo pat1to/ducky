@@ -319,11 +319,15 @@
   }
 
   .u-section-3 .u-social-icons-1 {
-    margin-top: 194px;
+    height: 96px;
+    width: 96px;
+    margin-top: 323px;
+    margin-left: 102px;
   }
 
   .u-section-3 .u-text-2 {
     width: auto;
+    margin-top: -214px;
     margin-left: -29px;
     margin-right: -29px;
   }

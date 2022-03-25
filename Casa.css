@@ -239,17 +239,23 @@
 
 @media (max-width: 575px) {
   .u-section-3 .u-btn-1 {
-    margin-top: -244px;
+    margin-top: 230px;
+    margin-left: -21px;
+    margin-right: -21px;
   }
 
   .u-section-3 .u-text-1 {
     font-size: 3rem;
     width: auto;
-    margin-top: -21px;
-    margin-left: auto;
+    margin-top: -204px;
+    margin-left: 26px;
   }
 
   .u-section-3 .u-text-2 {
-    margin-right: 108px;
+    width: auto;
+    font-size: 3rem;
+    margin-top: 227px;
+    margin-left: -29px;
+    margin-right: -29px;
   }
 }
